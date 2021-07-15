@@ -6,7 +6,7 @@
 - 주관: 모두의연구소 AIFFEL
 
 ## Exploration
-Contents|Practice|Project
---------|--------|-------
+Contents|Project
+--------|-------|
 E1. Image Classification| 가위바위보 분류기 ([link](https://github.com/LeeJuwhan/AIFFEL_PROJECT/tree/main/Exploration/exploration1))
 E2. Classification| digits, wine, breast cancer 분류 ([link](https://github.com/LeeJuwhan/AIFFEL_PROJECT/tree/main/Exploration/exploration2))
