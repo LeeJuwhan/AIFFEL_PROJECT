@@ -1,7 +1,7 @@
 # AIFFEL_PROJECT
 
 # AIFFEL 인공지능 실습 및 프로젝트
-- AIFFEL에서 AI를 공부하며 배운 내용을 정리하고 프로젝트 파일을 저장하는 곳입니다.
+- AIFFEL Exploration을 진행한 내용 입니다.
 - 기간: 2021년 6월 24일 ~ 2021년 12월 15일
 - 주관: 모두의연구소 AIFFEL
 
